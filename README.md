@@ -1,7 +1,8 @@
 #  Speech Recognition Model
 
 This repository contains code for fine-tuning OpenAI's Whisper medium model for Dhivehi (Maldivian) language speech recognition using the Mozilla Common Voice dataset.
-![image](https://github.com/user-attachments/assets/8f4c3ce0-2b42-4c5f-adc8-9e38264817ee)
+![image](https://github.com/user-attachments/assets/92b34d8d-a965-435b-b4b0-97af79dfffe5)
+
 
 ## Project Overview
 
